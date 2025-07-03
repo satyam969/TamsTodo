@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "ignoreCommand": "echo 'Skipping type check...'",
+  "ignoreCommand": "echo 'Skipping type check...'"
 
 }
